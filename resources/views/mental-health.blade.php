@@ -33,7 +33,7 @@
                 <div class="md:w-1/2 mb-12 md:mb-0">
                     <h1 class="text-4xl md:text-5xl font-bold mb-6 text-gray-800">Mental Health & Faith</h1>
                     <p class="text-xl text-gray-600 mb-8">Finding healing, hope, and wholeness through Christ-centered support and professional care. Your mental health matters to God, and it matters to us.</p>
-                    
+
                     <div class="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4">
                         <a href="#support-groups" class="healing-gradient hover:opacity-90 text-white px-8 py-3 rounded-full font-bold text-center transition duration-300">
                             Find Support Groups
@@ -68,7 +68,7 @@
                     <h2 class="text-3xl md:text-4xl font-bold mb-4 text-gray-800">A Biblical Perspective on Mental Health</h2>
                     <p class="text-gray-600">Scripture speaks to our whole being—mind, body, and spirit.</p>
                 </div>
-                
+
                 <div class="bg-white p-8 rounded-2xl shadow-soft">
                     <div class="grid md:grid-cols-2 gap-8">
                         <div>
@@ -81,7 +81,7 @@
                                     <p class="text-gray-600">"The righteous cry out, and the Lord hears them; he delivers them from all their troubles. The Lord is close to the brokenhearted and saves those who are crushed in spirit."</p>
                                 </div>
                             </div>
-                            
+
                             <div class="flex items-start">
                                 <div class="w-12 h-12 rounded-full bg-blue-100 flex items-center justify-center mr-4 flex-shrink-0">
                                     <i class="fas fa-hands-praying text-blue-600"></i>
@@ -92,12 +92,12 @@
                                 </div>
                             </div>
                         </div>
-                        
+
                         <div>
                             <div class="bg-gray-50 p-6 rounded-xl">
                                 <h3 class="text-lg font-bold text-gray-800 mb-4">Our Approach</h3>
                                 <p class="text-gray-600 mb-4">At Triumph Ministry, we believe mental health is not separate from spiritual health. We integrate:</p>
-                                
+
                                 <div class="space-y-3">
                                     <div class="flex items-start">
                                         <i class="fas fa-check-circle text-green-500 mt-1 mr-3"></i>
@@ -131,7 +131,7 @@
                 <h2 class="text-3xl md:text-4xl font-bold mb-4 text-gray-800">Support Groups & Communities</h2>
                 <p class="text-gray-600 max-w-2xl mx-auto">Find understanding, connection, and hope in our faith-based support communities</p>
             </div>
-            
+
             <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8 mb-12">
                 <div class="support-group-card anxiety-card bg-white p-6 rounded-xl shadow-soft hover-lift">
                     <div class="flex items-center mb-4">
@@ -153,7 +153,7 @@
                         </a>
                     </div>
                 </div>
-                
+
                 <div class="support-group-card depression-card bg-white p-6 rounded-xl shadow-soft hover-lift">
                     <div class="flex items-center mb-4">
                         <div class="w-12 h-12 rounded-full bg-blue-100 flex items-center justify-center mr-4">
@@ -174,7 +174,7 @@
                         </a>
                     </div>
                 </div>
-                
+
                 <div class="support-group-card grief-card bg-white p-6 rounded-xl shadow-soft hover-lift">
                     <div class="flex items-center mb-4">
                         <div class="w-12 h-12 rounded-full bg-green-100 flex items-center justify-center mr-4">
@@ -195,7 +195,7 @@
                         </a>
                     </div>
                 </div>
-                
+
                 <div class="support-group-card addiction-card bg-white p-6 rounded-xl shadow-soft hover-lift">
                     <div class="flex items-center mb-4">
                         <div class="w-12 h-12 rounded-full bg-amber-100 flex items-center justify-center mr-4">
@@ -216,7 +216,7 @@
                         </a>
                     </div>
                 </div>
-                
+
                 <div class="support-group-card trauma-card bg-white p-6 rounded-xl shadow-soft hover-lift">
                     <div class="flex items-center mb-4">
                         <div class="w-12 h-12 rounded-full bg-red-100 flex items-center justify-center mr-4">
@@ -237,7 +237,7 @@
                         </a>
                     </div>
                 </div>
-                
+
                 <div class="support-group-card wellness-card bg-white p-6 rounded-xl shadow-soft hover-lift">
                     <div class="flex items-center mb-4">
                         <div class="w-12 h-12 rounded-full bg-cyan-100 flex items-center justify-center mr-4">
@@ -259,7 +259,7 @@
                     </div>
                 </div>
             </div>
-            
+
             <div class="text-center">
                 <a href="#" class="inline-flex items-center healing-gradient text-white px-8 py-3 rounded-full font-bold transition duration-300 hover:opacity-90">
                     <i class="fas fa-calendar-plus mr-2"></i> View All Group Schedules
@@ -275,7 +275,7 @@
                 <h2 class="text-3xl md:text-4xl font-bold mb-4 text-gray-800">Professional Counseling Services</h2>
                 <p class="text-gray-600 max-w-2xl mx-auto">Licensed Christian counselors integrating faith and professional expertise</p>
             </div>
-            
+
             <div class="max-w-6xl mx-auto">
                 <!-- Counselor Tabs -->
                 <div class="flex flex-wrap justify-center gap-2 mb-8">
@@ -284,7 +284,7 @@
                     <button class="tab-btn px-6 py-2 rounded-full border border-gray-300 hover:bg-green-50 transition" data-tab="family">Family Therapy</button>
                     <button class="tab-btn px-6 py-2 rounded-full border border-gray-300 hover:bg-green-50 transition" data-tab="teen">Teen Counseling</button>
                 </div>
-                
+
                 <!-- Tab Contents -->
                 <div id="individual" class="tab-content active">
                     <div class="bg-white rounded-2xl shadow-soft overflow-hidden">
@@ -292,7 +292,7 @@
                             <div class="md:w-1/2 p-8">
                                 <h3 class="text-2xl font-bold mb-4 text-gray-800">Individual Therapy</h3>
                                 <p class="text-gray-600 mb-6">One-on-one sessions with a licensed Christian counselor who integrates biblical wisdom with evidence-based therapeutic approaches.</p>
-                                
+
                                 <div class="space-y-4 mb-6">
                                     <div class="flex items-start">
                                         <i class="fas fa-check text-green-500 mt-1 mr-3"></i>
@@ -316,7 +316,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                
+
                                 <div class="bg-green-50 p-4 rounded-lg mb-6">
                                     <div class="flex items-center">
                                         <i class="fas fa-dollar-sign text-green-600 mr-3"></i>
@@ -326,7 +326,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                
+
                                 <a href="#appointment" class="block w-full healing-gradient text-white text-center py-3 rounded-lg font-bold transition duration-300 hover:opacity-90">
                                     Schedule Appointment
                                 </a>
@@ -337,15 +337,15 @@
                         </div>
                     </div>
                 </div>
-                
+
                 <div id="couples" class="tab-content">
                     <!-- Similar structure for couples counseling -->
                 </div>
-                
+
                 <!-- Counselors -->
                 <div class="mt-16">
                     <h3 class="text-2xl font-bold mb-8 text-center text-gray-800">Meet Our Counselors</h3>
-                    
+
                     <div class="grid md:grid-cols-3 gap-8">
                         <div class="counselor-card bg-white rounded-xl shadow-soft overflow-hidden hover-lift">
                             <div class="h-48 bg-gradient-to-r from-green-200 to-teal-200 overflow-hidden">
@@ -363,7 +363,7 @@
                                 </div>
                             </div>
                         </div>
-                        
+
                         <div class="counselor-card bg-white rounded-xl shadow-soft overflow-hidden hover-lift">
                             <div class="h-48 bg-gradient-to-r from-blue-200 to-indigo-200 overflow-hidden">
                                 <div class="w-full h-full flex items-center justify-center">
@@ -380,7 +380,7 @@
                                 </div>
                             </div>
                         </div>
-                        
+
                         <div class="counselor-card bg-white rounded-xl shadow-soft overflow-hidden hover-lift">
                             <div class="h-48 bg-gradient-to-r from-purple-200 to-pink-200 overflow-hidden">
                                 <div class="w-full h-full flex items-center justify-center">
@@ -410,7 +410,7 @@
                 <h2 class="text-3xl md:text-4xl font-bold mb-4 text-gray-800">Mental Health Resources</h2>
                 <p class="text-gray-600 max-w-2xl mx-auto">Tools, guides, and materials to support your mental health journey</p>
             </div>
-            
+
             <div class="grid md:grid-cols-3 gap-8 mb-12">
                 <div class="resource-card bg-gray-50 p-6 rounded-xl border-l-green-500 hover-lift">
                     <div class="text-green-500 mb-4">
@@ -423,7 +423,7 @@
                         <i class="fas fa-download ml-2"></i>
                     </a>
                 </div>
-                
+
                 <div class="resource-card bg-gray-50 p-6 rounded-xl border-l-blue-500 hover-lift">
                     <div class="text-blue-500 mb-4">
                         <i class="fas fa-video text-3xl"></i>
@@ -435,7 +435,7 @@
                         <i class="fas fa-play-circle ml-2"></i>
                     </a>
                 </div>
-                
+
                 <div class="resource-card bg-gray-50 p-6 rounded-xl border-l-purple-500 hover-lift">
                     <div class="text-purple-500 mb-4">
                         <i class="fas fa-podcast text-3xl"></i>
@@ -448,7 +448,7 @@
                     </a>
                 </div>
             </div>
-            
+
             <!-- Quick Tips -->
             <div class="max-w-4xl mx-auto bg-gradient-to-r from-green-50 to-blue-50 p-8 rounded-2xl">
                 <h3 class="text-2xl font-bold mb-6 text-center text-gray-800">Quick Mental Health Tips</h3>
@@ -462,7 +462,7 @@
                         </div>
                         <p class="text-gray-600">Begin each morning with 5 minutes of prayer and Scripture reading to set a positive tone.</p>
                     </div>
-                    
+
                     <div class="bg-white p-6 rounded-xl shadow-sm">
                         <div class="flex items-center mb-4">
                             <div class="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center mr-4">
@@ -472,7 +472,7 @@
                         </div>
                         <p class="text-gray-600">Combine physical exercise with mindfulness by noticing things you're thankful for during a walk.</p>
                     </div>
-                    
+
                     <div class="bg-white p-6 rounded-xl shadow-sm">
                         <div class="flex items-center mb-4">
                             <div class="w-10 h-10 rounded-full bg-purple-100 flex items-center justify-center mr-4">
@@ -482,7 +482,7 @@
                         </div>
                         <p class="text-gray-600">Isolation worsens mental health. Reach out to a friend or attend a support group this week.</p>
                     </div>
-                    
+
                     <div class="bg-white p-6 rounded-xl shadow-sm">
                         <div class="flex items-center mb-4">
                             <div class="w-10 h-10 rounded-full bg-amber-100 flex items-center justify-center mr-4">
@@ -506,50 +506,50 @@
                     <div class="bg-white p-8 rounded-2xl shadow-soft">
                         <h3 class="text-2xl font-bold mb-6 text-gray-800">Submit a Prayer Request</h3>
                         <p class="text-gray-600 mb-6">Our prayer team is ready to lift up your needs. All requests are kept confidential.</p>
-                        
+
                         <form class="prayer-request-form space-y-6">
                             <div>
                                 <label class="block text-gray-700 mb-2">Your Name (Optional)</label>
                                 <input type="text" class="w-full border border-gray-300 rounded-lg px-4 py-3 focus:outline-none focus:border-green-500" placeholder="Name">
                             </div>
-                            
+
                             <div>
                                 <label class="block text-gray-700 mb-2">Prayer Request</label>
                                 <textarea class="w-full border border-gray-300 rounded-lg px-4 py-3 focus:outline-none focus:border-green-500" placeholder="Share your prayer need..."></textarea>
                             </div>
-                            
+
                             <div class="flex items-center">
                                 <input type="checkbox" id="anonymous" class="mr-3">
                                 <label for="anonymous" class="text-gray-700">Submit anonymously</label>
                             </div>
-                            
+
                             <button type="submit" class="w-full bg-purple-500 hover:bg-purple-600 text-white font-bold py-3 rounded-lg transition duration-300">
                                 Submit for Prayer
                             </button>
                         </form>
                     </div>
-                    
+
                     <!-- Appointment Form -->
                     <div class="bg-white p-8 rounded-2xl shadow-soft">
                         <h3 class="text-2xl font-bold mb-6 text-gray-800">Schedule Counseling Appointment</h3>
                         <p class="text-gray-600 mb-6">Take the first step toward healing. We'll contact you within 24 hours.</p>
-                        
+
                         <form class="space-y-6">
                             <div>
                                 <label class="block text-gray-700 mb-2">Full Name *</label>
                                 <input type="text" class="w-full border border-gray-300 rounded-lg px-4 py-3 focus:outline-none focus:border-green-500" placeholder="Your name" required>
                             </div>
-                            
+
                             <div>
                                 <label class="block text-gray-700 mb-2">Email Address *</label>
                                 <input type="email" class="w-full border border-gray-300 rounded-lg px-4 py-3 focus:outline-none focus:border-green-500" placeholder="you@example.com" required>
                             </div>
-                            
+
                             <div>
                                 <label class="block text-gray-700 mb-2">Phone Number</label>
                                 <input type="tel" class="w-full border border-gray-300 rounded-lg px-4 py-3 focus:outline-none focus:border-green-500" placeholder="(555) 123-4567">
                             </div>
-                            
+
                             <div>
                                 <label class="block text-gray-700 mb-2">Type of Support Needed</label>
                                 <select class="w-full border border-gray-300 rounded-lg px-4 py-3 focus:outline-none focus:border-green-500">
@@ -561,11 +561,11 @@
                                     <option value="unsure">Not Sure - Need Guidance</option>
                                 </select>
                             </div>
-                            
+
                             <button type="submit" class="w-full healing-gradient text-white font-bold py-3 rounded-lg transition duration-300 hover:opacity-90">
                                 Request Appointment
                             </button>
-                            
+
                             <p class="text-center text-sm text-gray-500">All inquiries are confidential. Sliding scale fees available.</p>
                         </form>
                     </div>
@@ -581,7 +581,7 @@
                 <h2 class="text-3xl md:text-4xl font-bold mb-4 text-gray-800">Stories of Hope & Healing</h2>
                 <p class="text-gray-600 max-w-2xl mx-auto">Real people finding real healing through Christ-centered mental health support</p>
             </div>
-            
+
             <div class="max-w-4xl mx-auto relative">
                 <div id="testimonial-slider" class="overflow-hidden">
                     <div class="testimonial-slide active bg-white p-8 rounded-2xl shadow-soft">
@@ -603,7 +603,7 @@
                             <i class="fas fa-star"></i>
                         </div>
                     </div>
-                    
+
                     <div class="testimonial-slide bg-white p-8 rounded-2xl shadow-soft">
                         <div class="flex items-center mb-6">
                             <div class="w-16 h-16 rounded-full bg-blue-100 flex items-center justify-center mr-4">
@@ -623,7 +623,7 @@
                             <i class="fas fa-star"></i>
                         </div>
                     </div>
-                    
+
                     <div class="testimonial-slide bg-white p-8 rounded-2xl shadow-soft">
                         <div class="flex items-center mb-6">
                             <div class="w-16 h-16 rounded-full bg-purple-100 flex items-center justify-center mr-4">
@@ -644,7 +644,7 @@
                         </div>
                     </div>
                 </div>
-                
+
                 <div class="flex justify-center mt-8 space-x-4">
                     <button id="prev-testimonial" class="w-10 h-10 rounded-full border border-gray-300 flex items-center justify-center hover:bg-green-100 transition">
                         <i class="fas fa-chevron-left"></i>
@@ -656,74 +656,6 @@
             </div>
         </div>
     </section>
-
-    <!-- Footer -->
-    <footer class="bg-gray-900 text-white py-12 px-6">
-        <div class="container mx-auto">
-            <div class="grid md:grid-cols-4 gap-8">
-                <div>
-                    <div class="flex items-center space-x-2 mb-6">
-                        <div class="w-10 h-10 rounded-full triumph-gradient flex items-center justify-center">
-                            <i class="fas fa-crown text-white"></i>
-                        </div>
-                        <span class="text-xl font-bold">Triumph Ministry</span>
-                    </div>
-                    <p class="text-gray-400">Providing Christ-centered mental health support, counseling, and community for healing and hope.</p>
-                </div>
-                
-                <div>
-                    <h4 class="text-lg font-bold mb-6">Mental Health Resources</h4>
-                    <ul class="space-y-3">
-                        <li><a href="#support-groups" class="text-gray-400 hover:text-white transition">Support Groups</a></li>
-                        <li><a href="#counseling" class="text-gray-400 hover:text-white transition">Counseling Services</a></li>
-                        <li><a href="#resources" class="text-gray-400 hover:text-white transition">Resources</a></li>
-                        <li><a href="#crisis" class="text-gray-400 hover:text-white transition">Crisis Help</a></li>
-                    </ul>
-                </div>
-                
-                <div>
-                    <h4 class="text-lg font-bold mb-6">Quick Links</h4>
-                    <ul class="space-y-3">
-                        <li><a href="index.html" class="text-gray-400 hover:text-white transition">Home</a></li>
-                        <li><a href="mission.html" class="text-gray-400 hover:text-white transition">Our Mission</a></li>
-                        <li><a href="products.html" class="text-gray-400 hover:text-white transition">Marketplace</a></li>
-                        <li><a href="#appointment" class="text-gray-400 hover:text-white transition">Make Appointment</a></li>
-                    </ul>
-                </div>
-                
-                <div>
-                    <h4 class="text-lg font-bold mb-6">Contact Mental Health Team</h4>
-                    <div class="space-y-3">
-                        <p class="text-gray-400">
-                            <i class="fas fa-phone mr-2"></i> (555) 987-6543
-                        </p>
-                        <p class="text-gray-400">
-                            <i class="fas fa-envelope mr-2"></i> mentalhealth@triumphministry.org
-                        </p>
-                        <p class="text-gray-400">
-                            <i class="fas fa-map-marker-alt mr-2"></i> 456 Victory Lane, Hope City
-                        </p>
-                    </div>
-                    
-                    <div class="flex space-x-4 mt-6">
-                        <a href="#" class="w-10 h-10 rounded-full bg-gray-800 flex items-center justify-center hover:bg-green-600 transition">
-                            <i class="fab fa-facebook-f"></i>
-                        </a>
-                        <a href="#" class="w-10 h-10 rounded-full bg-gray-800 flex items-center justify-center hover:bg-purple-600 transition">
-                            <i class="fab fa-instagram"></i>
-                        </a>
-                    </div>
-                </div>
-            </div>
-            
-            <div class="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-                <p>&copy; 2023 Triumph Ministry Mental Health Services. All counseling services confidential.</p>
-                <p class="mt-2 text-sm">"Cast all your anxiety on him because he cares for you." — 1 Peter 5:7</p>
-                <p class="mt-2 text-xs text-gray-500">Note: If you are in immediate danger or experiencing a medical emergency, please call 911 or go to the nearest emergency room.</p>
-            </div>
-        </div>
-    </footer>
-
     @endsection
 
 @push('scripts')
@@ -732,7 +664,7 @@
         document.getElementById('menu-btn').addEventListener('click', function() {
             const mobileMenu = document.getElementById('mobile-menu');
             const icon = this.querySelector('i');
-            
+
             if (mobileMenu.classList.contains('hidden')) {
                 mobileMenu.classList.remove('hidden');
                 icon.classList.remove('fa-bars');
@@ -747,15 +679,15 @@
         // Tab functionality
         const tabButtons = document.querySelectorAll('.tab-btn');
         const tabContents = document.querySelectorAll('.tab-content');
-        
+
         tabButtons.forEach(button => {
             button.addEventListener('click', () => {
                 const tabId = button.dataset.tab;
-                
+
                 // Update active button
                 tabButtons.forEach(btn => btn.classList.remove('active'));
                 button.classList.add('active');
-                
+
                 // Show corresponding content
                 tabContents.forEach(content => {
                     content.classList.remove('active');
@@ -812,7 +744,7 @@
 
         // Fade-in animation on scroll
         const fadeElements = document.querySelectorAll('.fade-in');
-        
+
         const observer = new IntersectionObserver((entries) => {
             entries.forEach(entry => {
                 if (entry.isIntersecting) {
@@ -830,7 +762,7 @@
             const resourceCards = document.querySelectorAll('.resource-card');
             const supportGroupCards = document.querySelectorAll('.support-group-card');
             const counselorCards = document.querySelectorAll('.counselor-card');
-            
+
             resourceCards.forEach(card => card.classList.add('fade-in'));
             supportGroupCards.forEach(card => card.classList.add('fade-in'));
             counselorCards.forEach(card => card.classList.add('fade-in'));
@@ -840,23 +772,23 @@
         document.querySelectorAll('a[href^="#"]').forEach(anchor => {
             anchor.addEventListener('click', function(e) {
                 const href = this.getAttribute('href');
-                
+
                 if (href === '#') return;
                 if (href.startsWith('http') || href.includes('.html')) return;
-                
+
                 e.preventDefault();
-                
+
                 const targetElement = document.querySelector(href);
                 if (targetElement) {
                     window.scrollTo({
                         top: targetElement.offsetTop - 100,
                         behavior: 'smooth'
                     });
-                    
+
                     // Close mobile menu if open
                     const mobileMenu = document.getElementById('mobile-menu');
                     const menuBtn = document.getElementById('menu-btn');
-                    
+
                     if (!mobileMenu.classList.contains('hidden')) {
                         mobileMenu.classList.add('hidden');
                         menuBtn.querySelector('i').classList.remove('fa-times');
